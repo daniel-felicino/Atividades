@@ -1,0 +1,124 @@
+body {
+    padding: 5px;
+}
+
+#botao {
+    background-color: rgb(83, 137, 253);
+    width: 110px;
+    height: 40px;
+    border-radius: 10px;
+    color: rgb(0, 0, 0);
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    border: none;
+    cursor: pointer;
+    box-shadow: 1px 1px 1px 1px;
+}
+
+#botao2 {
+    background-color: rgb(83, 137, 253);
+    width: 110px;
+    height: 40px;
+    border-radius: 10px;
+    color: rgb(0, 0, 0);
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    border: none;
+    cursor: pointer;
+    box-shadow: 1px 1px 1px 1px;
+}
+
+#botao3 {
+    background-color: rgb(83, 137, 253);
+    width: 110px;
+    height: 40px;
+    border-radius: 10px;
+    color: rgb(0, 0, 0);
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    border: none;
+    cursor: pointer;
+    box-shadow: 1px 1px 1px 1px;
+}
+
+#botao4 {
+    background-color: rgb(83, 137, 253);
+    width: 110px;
+    height: 40px;
+    border-radius: 10px;
+    color: rgb(0, 0, 0);
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    border: none;
+    cursor: pointer;
+    box-shadow: 1px 1px 1px 1px;
+}
+
+#botao5 {
+    background-color: rgb(177, 176, 176);
+    width: 110px;
+    height: 40px;
+    border-radius: 10px;
+    color: rgb(0, 0, 0);
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    border: none;
+    cursor: pointer;
+    box-shadow: 1px 1px 1px 1px;
+}
+
+#botao6 {
+    background-color: rgb(177, 176, 176);
+    width: 110px;
+    height: 40px;
+    border-radius: 10px;
+    color: rgb(0, 0, 0);
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    border: none;
+    cursor: pointer;
+    box-shadow: 1px 1px 1px 1px;
+
+    /* cursor: pointer; 
+faz o pondeiro do mouse virar mão */
+}
+
+#botao6:active {
+
+    box-shadow: none;
+}
+
+#botao5:active {
+
+    box-shadow: none;
+}
+
+#botao4:active {
+
+    box-shadow: none;
+}
+
+#botao3:active {
+
+    box-shadow: none;
+}
+
+#botao2:active {
+
+    box-shadow: none;
+}
+
+#botao:active {
+
+    box-shadow: none;
+}
+.resul{
+
+    display: none;
+}
+
+.result{
+
+    display: none;
+
+}
